@@ -1,0 +1,18 @@
+{
+  "home": {
+    "dialog_add_beneficiary_add": "Add",
+    "dialog_add_beneficiary_cancel": "Cancel",
+    "add_your_first_beneficiary": "Add your first beneficiary",
+    "dialog_add_beneficiary_title": "Add Beneficiary",
+    "dialog_add_beneficiary_name_error": "Please add beneficiary name",
+    "dialog_add_beneficiary_name_hint": "Beneficiary name",
+    "top_up_label": "Top up",
+    "balance_label": "Balance = {balance}",
+    "dialog_max_beneficiary_reached_title": "⚠️ beneficiaries count",
+    "dialog_max_beneficiary_reached_content": "You have reached the maximum number of beneficiaries allowed {count}",
+    "get_beneficiary_load_error_message": "While life is good, something went wrong. Please try again later.",
+    "add_beneficiary_load_error_message": "something went wrong. Please try again later.",
+    "dialog_max_limit_exceeded_content": "You have reached the maximum top up limit for this beneficiary this month",
+    "dialog_max_limit_exceeded_title": "Top-up limit exceeded"
+  }
+}

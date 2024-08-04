@@ -1,0 +1,18 @@
+{
+  "home": {
+    "dialog_add_beneficiary_add": "إضافة",
+    "dialog_add_beneficiary_cancel": "إلغاء",
+    "add_your_first_beneficiary": "أضف المستفيد الأول",
+    "dialog_add_beneficiary_title": "إضافة مستفيد",
+    "dialog_add_beneficiary_name_error": "يرجى إضافة اسم المستفيد",
+    "dialog_add_beneficiary_name_hint": "اسم المستفيد",
+    "top_up_label": "شحن",
+    "balance_label": "الرصيد = {balance}",
+    "dialog_max_beneficiary_reached_title": "⚠️ عدد المستفيدين",
+    "dialog_max_beneficiary_reached_content": "لقد وصلت إلى الحد الأقصى لعدد المستفيدين المسموح به {count}",
+    "get_beneficiary_load_error_message": "بينما الحياة جيدة، حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا.",
+    "add_beneficiary_load_error_message": "حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا.",
+    "dialog_max_limit_exceeded_content": "لقد وصلت إلى الحد الأقصى لشحن هذا المستفيد هذا الشهر",
+    "dialog_max_limit_exceeded_title": "تم تجاوز حد الشحن"
+  }
+}
